@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Welcome to Tin's Home Page
 ##  👋 Hello there, I'm Tin!

@@ -2,6 +2,10 @@ title: Tin's Home Page
 logo: /assets/img/Logo.PNG
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+author:
+  name: Tin Hang
 social:
   linkedin: https://www.linkedin.com/in/tin-hang/
+  email: lastancientone@gmail.com
+theme: jekyll-theme-minimal
+

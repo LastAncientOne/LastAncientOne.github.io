@@ -1,11 +1,21 @@
-<div class="header">
-  <img src="{{ site.logo }}" alt="Logo">
-  <div class="author-info">
-    <h1>{{ site.author.name }}</h1>
-    <ul>
-      <li><a href="{{ site.author.linkedin }}">LinkedIn</a></li>
-      <li><a href="mailto:{{ site.author.email }}">Email</a></li>
-      <li><a href="{{ site.author.github }}">GitHub</a></li>
-    </ul>
-  </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+</head>
+<body>
+    <header>
+        <img src="{{ site.logo }}" alt="Logo">
+    </header>
+    <section>
+        <p>Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+        <p>LinkedIn: <a href="{{ site.author.linkedin }}">{{ site.author.name }}</a></p>
+        <p>GitHub: <a href="https://github.com/{{ site.author.github }}">{{ site.author.github }}</a></p>
+    </section>
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+</body>
+</html>

@@ -3,20 +3,14 @@
 #description: text below image
 #show_downloads: true
 #theme: jekyll-theme-minimal
+
 # Site settings
 title: Tin's Home Page
 logo: /assets/img/Logo.PNG
 author:
   name: Tin Hang
-  links:
-    - label: LinkedIn
-      icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/tin-hang/
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:lastancientone@gmail.com
-    - label: GitHub
-      icon: fab fa-github
-      url: https://github.com/LastAncientOne
-# theme: jekyll-theme-minimal
+  linkedin: https://www.linkedin.com/in/tin-hang/
+  email: lastancientone@gmail.com
+  github: https://github.com/LastAncientOne
+theme: jekyll-theme-minimal
 

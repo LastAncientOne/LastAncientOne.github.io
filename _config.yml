@@ -8,7 +8,7 @@ logo: /assets/img/Logo.PNG
 #location         : "CA, USA"
 #employer         : "California Social Services" 
 #email            : "lastancientone@gmail.com" 
-#linkelin         : "https://www.linkedin.com/in/tin-hang/"
-#github           : "LastAncientOne"
-theme: jekyll-theme-minmal
+linkelin         : "https://www.linkedin.com/in/tin-hang/"
+github           : "LastAncientOne"
+theme: jekll-theme-minimal
 

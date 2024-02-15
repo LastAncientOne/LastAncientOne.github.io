@@ -1,10 +1,9 @@
 title: Tin's Home Page
-#logo: /assets/img/Logo.PNG
+logo: /assets/img/Logo.PNG
 #description: text below image
 #show_downloads: true
 author:
 name             : "Tin Hang"
-logo          :  /assets/img/Logo.PNG
 bio              : "Multimodal learning"
 pronouns         : # example: "she/her"
 location         : "CA, USA"

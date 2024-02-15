@@ -1,5 +1,28 @@
-title: Tin Hang
-logo: /assets/img/Logo.PNG
+#title: Tin Hang
+#logo: /assets/img/Logo.PNG
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal 
+#theme: jekyll-theme-minimal 
+
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "Tin's Home Page"
+title_separator          : "-"
+name                     : &name "Tin Hang"
+description              : &description "Portfolio"
+url                      : https://github.com/LastAncientOne/LastAncientOne.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "LastAncientOne/LastAncientOne.github.io "
+
+# Site Author
+author:
+  name             : "Tin Hang"
+  avatar           : /assets/img/Logo.PNG
+  bio              : "Multimodal learningr"
+  pronouns         : # example: "she/her"
+  location         : "CA, USA"
+  orcid            : "http://orcid.org/yourorcidurl"
+  employer         : California Social Services 
+  email            : "lastancientone@gmail.com" 
+  uri              :
+  github           : "LastAncientOne"

@@ -2,6 +2,8 @@
 
 👋 Hello there, I'm Tin!
 
+![](/assets/img.AI black.png){: .align-right width="300px"}
+
 💻 🔢 🔣 🤖 I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  
 
 💵 💰 💸 📈 📉 I am into investment, finance, and quantitative research.  

@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+# Welcome to Tin's Home Page
 ##  👋 Hello there, I'm Tin!
 
 💻 🔢 🔣 🤖 I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  

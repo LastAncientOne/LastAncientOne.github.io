@@ -17,7 +17,7 @@ repository               : "LastAncientOne/LastAncientOne.github.io "
 # Site Author
 author:
   name             : "Tin Hang"
-  avatar           : "Logo.PNG"
+  avatar           :  /assets/img/Logo.PNG
   bio              : "Multimodal learningr"
   pronouns         : # example: "she/her"
   location         : "CA, USA"

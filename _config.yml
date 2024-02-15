@@ -9,6 +9,6 @@ logo: /assets/img/Logo.PNG
 #employer         : "California Social Services" 
 #email            : "lastancientone@gmail.com" 
 linkelin         : "https://www.linkedin.com/in/tin-hang/"
-github           : "LastAncientOne"
+#github           : "LastAncientOne"
 theme: jekll-theme-minimal
 

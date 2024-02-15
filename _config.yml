@@ -1,29 +1,8 @@
-#title: Tin Hang
+title: Tin's Home Page
 #logo: /assets/img/Logo.PNG
-#description: text below image
-#show_downloads: true
-#theme: jekyll-theme-minimal 
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Tin's Home Page"
-title_separator          : "-"
-name                     : &name "Tin Hang"
-description              : &description "Portfolio"
-url                      : https://github.com/LastAncientOne/LastAncientOne.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LastAncientOne/LastAncientOne.github.io "
-
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
-# Site Author
 author:
   name             : "Tin Hang"
-  avatar           :  /assets/img/Logo.PNG
+  logo          :  /assets/img/Logo.PNG
   bio              : "Multimodal learningr"
   pronouns         : # example: "she/her"
   location         : "CA, USA"
@@ -32,3 +11,5 @@ author:
   email            : "lastancientone@gmail.com" 
   linkelin         : "https://www.linkedin.com/in/tin-hang/"
   github           : "LastAncientOne"
+
+

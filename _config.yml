@@ -5,19 +5,10 @@
 #theme: jekyll-theme-minimal
 
 # Site settings
-#title: "Tin's Home Page"
-#logo: /assets/img/Logo.PNG
-#author: "Tin Hang"
-#linkedin: "https://www.linkedin.com/in/tin-hang/"
-#email: "lastancientone@gmail.com"
-#github: "https://github.com/LastAncientOne"
-#theme: "minimal"
-# Site settings
-title: "My Minimal Website"
-author: "John Doe"
-email: "john.doe@example.com"
-github: "johndoe"
-linkedin: "johndoe123"
-
-# Theme settings
-theme: "minimal"
+title: "Tin's Home Page"
+logo: /assets/img/Logo.PNG
+author: "Tin Hang"
+linkedin: "https://www.linkedin.com/in/tin-hang/"
+email: "lastancientone@gmail.com"
+github: "https://github.com/LastAncientOne"
+theme: jekyll-theme-minimal

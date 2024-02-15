@@ -1,20 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ page.title }}</title>
+  <title>Welcome to Tin's Home Page</title>
+  <style>
+    header {
+      display: flex;
+      align-items: center;
+    }
+    nav {
+      margin-left: auto;
+    }
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+    }
+    nav ul li {
+      margin-right: 10px;
+    }
+  </style>
 </head>
 <body>
   <header>
     <img src="{{ site.logo }}" alt="Tin's Logo" style="width: 100px; height: auto;">
     <nav>
       <ul>
-        <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+        <li><a href="{{ site.author.email }}">Email</a></li>
         <li><a href="{{ site.author.linkedin }}">LinkedIn</a></li>
-        <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+        <li><a href="{{ site.author.github }}">GitHub</a></li>
       </ul>
     </nav>
   </header>
   <main>
+    <h1>Welcome to Tin's Home Page</h1>
+    <!-- Include other content from index.md here -->
     {{ content }}
   </main>
   <footer>

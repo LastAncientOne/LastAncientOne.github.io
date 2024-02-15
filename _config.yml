@@ -17,12 +17,12 @@ repository               : "LastAncientOne/LastAncientOne.github.io "
 # Site Author
 author:
   name             : "Tin Hang"
-  avatar           : /assets/img/Logo.PNG
+  avatar           : "Logo.PNG"
   bio              : "Multimodal learningr"
   pronouns         : # example: "she/her"
   location         : "CA, USA"
   orcid            : "http://orcid.org/yourorcidurl"
-  employer         : California Social Services 
+  employer         : "California Social Services" 
   email            : "lastancientone@gmail.com" 
   uri              :
   github           : "LastAncientOne"

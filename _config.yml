@@ -1,5 +1,7 @@
 title: Tin's Home Page
 #logo: /assets/img/Logo.PNG
+#description: text below image
+#show_downloads: true
 author:
   name             : "Tin Hang"
   logo          :  /assets/img/Logo.PNG
@@ -11,5 +13,5 @@ author:
   email            : "lastancientone@gmail.com" 
   linkelin         : "https://www.linkedin.com/in/tin-hang/"
   github           : "LastAncientOne"
-
+theme: jekyll-theme-minmal
 

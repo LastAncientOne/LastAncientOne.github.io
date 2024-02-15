@@ -7,10 +7,9 @@
 # Site settings
 title: Tin's Home Page
 logo: /assets/img/Logo.PNG
-author: 
+author:
   name: Tin Hang
   linkedin: https://www.linkedin.com/in/tin-hang/
   email: lastancientone@gmail.com
-  github: LastAncientOne
+  github: https://github.com/LastAncientOne
 theme: jekyll-theme-minimal
-

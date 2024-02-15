@@ -3,7 +3,7 @@
 
 💻 🔢 🔣 🤖 I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  
 
-💵 💰 💸 📈 📉 I am into investment, finance, and quantitative research.  
+💵 💰 💸 📈 📉 I am into investment, finance, and quantitative research. I have strong passion for investment. 
 
 🌱 I'm addict to learning and growing everyday.  
 

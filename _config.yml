@@ -3,15 +3,14 @@ title: Tin's Home Page
 #description: text below image
 #show_downloads: true
 author:
-  name             : "Tin Hang"
-  logo          :  /assets/img/Logo.PNG
-  bio              : "Multimodal learningr"
-  pronouns         : # example: "she/her"
-  location         : "CA, USA"
-  orcid            : "http://orcid.org/yourorcidurl"
-  employer         : "California Social Services" 
-  email            : "lastancientone@gmail.com" 
-  linkelin         : "https://www.linkedin.com/in/tin-hang/"
-  github           : "LastAncientOne"
+name             : "Tin Hang"
+logo          :  /assets/img/Logo.PNG
+bio              : "Multimodal learning"
+pronouns         : # example: "she/her"
+location         : "CA, USA"
+employer         : "California Social Services" 
+email            : "lastancientone@gmail.com" 
+linkelin         : "https://www.linkedin.com/in/tin-hang/"
+github           : "LastAncientOne"
 theme: jekyll-theme-minmal
 

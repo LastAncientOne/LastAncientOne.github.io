@@ -17,8 +17,8 @@
     </a>
 </div>  
 
-### Here are my projects.  
+## 📁 Here are my projects.   
 
-## 📄 [Stock Analysis For Quant](Quant.md)  
-## 📄 [Deep Learning Machine Learning Stock](MLDL.md)
-## 📄 [Research Investment Projects](RIP.md)  
+## 📄 [Stock Analysis For Quant](Quant.md)   
+## 📄 [Deep Learning Machine Learning Stock](MLDL.md) 
+## 📄 [Research Investment Projects](RIP.md)   

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Welcome to Tin's Home Page
 ##  👋 Hello there, I'm Tin!
 
@@ -10,11 +6,6 @@ layout: default
 💵 💰 💸 📈 📉 I am into investment, finance, and quantitative research. I have strong passion for investment. 
 
 🌱 I'm addict to learning and growing everyday.  
-
-
-# Tin Hang
-
-[LinkedIn](https://www.linkedin.com/in/tin-hang/) | [Email](mailto:lastancientone@gmail.com) | [GitHub](https://github.com/LastAncientOne)
 
 ### <ins> Connect with me:
 <div style="text-align: left; margin-bottom: 20px;">

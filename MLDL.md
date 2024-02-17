@@ -1,4 +1,4 @@
-# Deep Learning and Machine Learning 🗠
+# Deep Learning and Machine Learning for trading and investment 🤖 🦾 🧠  
 
 ## Summary:  
 This is a comprehensive study and analysis of stocks using deep learning (DL) and machine learning (ML) techniques. Both machine learning and deep learning are types of artificial intelligence (AI). The objective is to predict stock behavior by employing various machine learning and deep learning algorithms. The focus is on experimenting with stock data to understand how and why certain methods are effective, as well as identifying reasons for their potential limitations. Different stock strategies are explored within the context of machine learning and deep learning. Technical Analysis and Fundamental Analysis are utilized to predict future stock prices using these AI techniques, encompassing both long-term and short-term predictions.  

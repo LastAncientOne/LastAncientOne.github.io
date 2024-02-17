@@ -1,12 +1,6 @@
-##  👋 Hello there, I'm Tin!
+##  Welcome to Tin's Blog
 
-💻 🔢 🔣 🤖 I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  
-
-💵 💰 💸 📈 📉 I am into investment, finance, and quantitative research.  
-
-🌱 I'm addict to learning and growing everyday.  
-
-## Investment Research Projects
+## 📈 📉 Investment Research Projects
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
 [AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA.pdf)  

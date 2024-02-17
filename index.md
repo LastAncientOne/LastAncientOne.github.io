@@ -45,3 +45,4 @@
 ### Services Industry Restaurants Investment  
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  
 [Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) 
+

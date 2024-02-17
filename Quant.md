@@ -1,3 +1,5 @@
+
+[Stock Analysis For Quant](Quant.md)
 [Stock Analysis For Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant)  
 
 ## Summary:

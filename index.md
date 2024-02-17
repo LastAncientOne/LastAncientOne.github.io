@@ -24,7 +24,7 @@
 ## 📄 [Research Investment Projects](RIP.md) 
 
 <!-- Add some space here -->
-<div style="margin-top: 40px;"></div>
+<div style="margin-top: 60px;"></div>
 
 <!-- Buy Me a Coffee button -->
 <div style="text-align: center;">

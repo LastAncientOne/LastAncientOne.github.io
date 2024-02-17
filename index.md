@@ -21,6 +21,14 @@
 
 ## 📄 [Stock Analysis For Quant](Quant.md)   
 ## 📄 [Deep Learning Machine Learning Stock](MLDL.md) 
-## 📄 [Research Investment Projects](RIP.md)   
+## 📄 [Research Investment Projects](RIP.md) 
 
-<a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<!-- Add some space here -->
+<div style="margin-top: 40px;"></div>
+
+<!-- Buy Me a Coffee button -->
+<div style="text-align: center;">
+    <a href="https://www.buymeacoffee.com/lastancientone">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
+    </a>
+</div>

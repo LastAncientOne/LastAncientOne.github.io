@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to Tin's Home Page
 ##  👋 Hello there, I'm Tin!
 
@@ -6,9 +10,7 @@
 💵 💰 💸 📈 📉 I am into investment, finance, and quantitative research. I have strong passion for investment. 
 
 🌱 I'm addict to learning and growing everyday.  
----
-layout: default
----
+
 
 # Tin Hang
 

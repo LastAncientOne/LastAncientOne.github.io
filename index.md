@@ -17,8 +17,7 @@
     </a>
 </div>
 
-
-## Investment Research Projects
+## 📈 📉 Investment Research Projects
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
 [AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Slides.pdf) [Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports.pdf)

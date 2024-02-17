@@ -10,10 +10,10 @@
 ### <ins> Connect with me:
 <div style="text-align: left;">
     <a href="https://www.linkedin.com/in/tin-hang" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="70" width="70"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/>
     </a>
     <a href="mailto:lastancientone@gmail.com" target="_blank">
-        <img src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Gmail" width="80" height="80"/>
+        <img src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Gmail" width="50" height="50"/>
     </a>
 </div>
 

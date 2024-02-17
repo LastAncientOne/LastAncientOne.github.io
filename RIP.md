@@ -27,3 +27,4 @@
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  
 [Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) [Reports](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/blob/master/Final_Project.pdf)  
 
+🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes.

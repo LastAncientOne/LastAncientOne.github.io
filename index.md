@@ -17,7 +17,7 @@
     </a>
 </div>  
 
-[Stock Analysis For Quant](Quant.md)
+#### 📄 [Stock Analysis For Quant](Quant.md)
 
 ## 📈 📉 Investment Research Projects
 ### AMD vs NVDA 

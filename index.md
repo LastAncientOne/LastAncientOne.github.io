@@ -13,7 +13,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/>
     </a>
     <a href="mailto:lastancientone@gmail.com" target="_blank">
-        <img src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Gmail" width="50" height="50"/>
+        <img src="https://vectorseek.com/wp-content/uploads/2021/02/Gmail-Logo-Vector-730x730.jpg" alt="Gmail" width="60" height="60"/>
     </a>
 </div>
 

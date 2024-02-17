@@ -36,7 +36,7 @@
 
 ### Covid-19 Vaccines Investment  
 #### Analyzing investment opportunities within the realm of COVID-19 vaccine development.  
-[Covid-19 Vaccines Investment](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment) [Slides] - Coming Soon!
+[Covid-19 Vaccines Investment](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment) [Slides](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment/blob/main/COVID-19%20Slides.pdf)
 
 ### Beverages Long-Term Investment  
 #### Conducting a comprehensive analysis of three companies to ascertain the ideal long-term investment opportunities within the soda beverage industry.  

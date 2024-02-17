@@ -5,15 +5,11 @@
 #theme: jekyll-theme-minimal
 
 # Site settings
+# Site settings
 title: Tin's Home Page
 logo: /assets/img/Logo.PNG
-author:
-  name: Tin Hang
-  links:
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/tin-hang/
-    - title: Email
-      url: mailto:lastancientone@gmail.com
-    - title: GitHub
-      url: https://github.com/LastAncientOne
+social:
+  linkedin: https://www.linkedin.com/in/tin-hang/
+  email: mailto:lastancientone@gmail.com
+  github: https://github.com/LastAncientOne
 theme: jekyll-theme-minimal

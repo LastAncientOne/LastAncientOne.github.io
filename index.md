@@ -16,6 +16,7 @@
         <img src="https://www.base64-image.de/build/img/mr-base64-482fa1f767.png" alt="Gmail" width="50" height="50"/>
     </a>
 </div>  
+</div>  
 
 ## 📁 Here are my projects.   
 

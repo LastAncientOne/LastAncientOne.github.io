@@ -21,7 +21,7 @@
 
 ## 📄 [Stock Analysis For Quant](Quant.md)   
 ## 📄 [Deep Learning Machine Learning Stock](MLDL.md) 
-## 📄 [Research Investment Projects](RIP.md) 
+## 📄 [Investment Research Projects](IRP.md) 
 
 <!-- Add some space here -->
 <div style="margin-top: 100px;"></div>

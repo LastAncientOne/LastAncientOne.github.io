@@ -17,6 +17,8 @@
     </a>
 </div>  
 
+<br/> <!-- Adding a line break for space -->
+
 ## 📁 Here are my projects.   
 
 ## 📄 [Stock Analysis For Quant](Quant.md)   

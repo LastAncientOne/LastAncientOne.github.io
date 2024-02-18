@@ -15,9 +15,8 @@
     <a href="mailto:lastancientone@gmail.com" target="_blank">
         <img src="https://www.base64-image.de/build/img/mr-base64-482fa1f767.png" alt="Gmail" width="50" height="50"/>
     </a>
-</div>  
-</div>  
-
+<div style="margin-bottom: 30px;"></div>  
+    
 ## 📁 Here are my projects.   
 
 ## 📄 [Stock Analysis For Quant](Quant.md)   

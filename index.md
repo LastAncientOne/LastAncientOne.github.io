@@ -18,7 +18,6 @@
 </div>  
 
 <br/> <!-- Adding a line break for space -->
-
 ## 📁 Here are my projects.   
 
 ## 📄 [Stock Analysis For Quant](Quant.md)   
@@ -26,7 +25,7 @@
 ## 📄 [Investment Research Projects](IRP.md) 
 
 <!-- Add some space here -->
-<div style="margin-top: 100px;"></div>
+<div style="margin-top: 80px;"></div>
 
 <!-- Buy Me a Coffee button -->
 <div style="text-align: center;">

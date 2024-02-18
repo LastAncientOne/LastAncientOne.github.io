@@ -15,7 +15,7 @@
     <a href="mailto:lastancientone@gmail.com" target="_blank">
         <img src="https://www.base64-image.de/build/img/mr-base64-482fa1f767.png" alt="Gmail" width="50" height="50"/>
     </a>
-<div margin-bottom: 20px;">
+<div>
 
 ## 📁 Here are my projects.   
 

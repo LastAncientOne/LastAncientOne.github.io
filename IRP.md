@@ -22,7 +22,7 @@
 
 ### Beverages Long-Term Investment  
 #### Conducting a comprehensive analysis of three companies to ascertain the ideal long-term investment opportunities within the soda beverage industry.  
-[Beverages Long Term Investment](https://github.com/LastAncientOne/Beverages_Long_Term_Investment) 
+[Beverages Long Term Investment](https://github.com/LastAncientOne/Beverages_Long_Term_Investment) [Reports](https://github.com/LastAncientOne/Beverages_Long_Term_Investment/blob/master/Beverages%20Long%20Term%20Investment%20Reports.pdf)
 
 ### Services Industry Restaurants Investment  
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  

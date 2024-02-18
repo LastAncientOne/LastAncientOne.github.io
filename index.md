@@ -34,4 +34,4 @@
     </a>
 </div>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=LastAncientOne/LastAncientOne.github.io)
+<img src="https://visitor-badge.glitch.me/badge?page_id=LastAncientOne/LastAncientOne.github.io" alt="Visitor Badge"/>

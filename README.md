@@ -1,7 +1,7 @@
 # Welcome to Tin's Investment Projects
+## 📈 📉 📊 Investment Research Projects 💵  
 
-## 📈 📉 Investment Research Projects  
-### AMD vs NVDA  
+### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
 [AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Slides.pdf) [Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports.pdf)
 
@@ -23,10 +23,10 @@
 
 ### Beverages Long-Term Investment  
 #### Conducting a comprehensive analysis of three companies to ascertain the ideal long-term investment opportunities within the soda beverage industry.  
-[Beverages Long Term Investment](https://github.com/LastAncientOne/Beverages_Long_Term_Investment) [Slides] - Coming Soon!   
+[Beverages Long Term Investment](https://github.com/LastAncientOne/Beverages_Long_Term_Investment) 
 
 ### Services Industry Restaurants Investment  
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  
-[Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) 
+[Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) [Reports](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/blob/master/Final_Project.pdf)  
 
-
+🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  

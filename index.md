@@ -16,7 +16,8 @@
         <img src="https://www.base64-image.de/build/img/mr-base64-482fa1f767.png" alt="Gmail" width="50" height="50"/>
     </a>
 </div>  
-<br/> <!-- Adding a line break for space -->  
+<br/><!-- Adding a line break for space --> 
+
 ## 📁 Here are my projects.   
 
 ## 📄 [Stock Analysis For Quant](Quant.md)   

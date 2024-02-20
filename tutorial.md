@@ -1,4 +1,4 @@
-# Programming Tutorial for Python and R  
+# 💻 Programming Tutorial for Python and R  
 
 ## Simple Stock Analysis in Python  
 ### Summary:  

@@ -27,7 +27,7 @@
 <!-- Add some space here -->
 <div style="margin-top: 80px;"></div>
 
-#### If you find value in what I do, you can show your appreciation by buying me a coffee.
+### If you find value in what I do, you can show your appreciation by buying me a coffee. ☕
 
 <!-- Buy Me a Coffee button -->
 <div style="text-align: center;">

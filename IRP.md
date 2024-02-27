@@ -1,4 +1,4 @@
-## 📈 📉 📊 Investment Research Projects 💵  
+# 📈 📉 📊 Investment Research Projects 💵  
 
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)

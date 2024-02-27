@@ -1,13 +1,14 @@
 # Welcome to Tin's Home Page
-##  👋 Hello there, I'm Tin!
 
-💻 🔢 🔣 🤖 I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.  
+## 👋 Hello there, I'm Tin!
 
-💵 💰 💸 📈 📉 I am into investment, finance, and quantitative research. I have strong passion for investment. 
+💻 🔢 🔣 🤖 I'm passionate about mathematics, statistics, data, programming, data science, machine learning, and deep learning.
 
-🌱 I'm addict to learning and growing everyday.  
+💵 💰 💸 📈 📉 I have a keen interest in investment, finance, and quantitative research.
 
-### <ins> Connect with me:
+🌱 I'm addicted to learning and growing every day.
+
+### <ins> Connect with me:</ins>
 <div style="text-align: left; margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/tin-hang" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/>
@@ -16,16 +17,14 @@
         <img src="https://www.base64-image.de/build/img/mr-base64-482fa1f767.png" alt="Gmail" width="50" height="50"/>
     </a>
 </div>
-<div style="margin-bottom: 20px;"></div>
 
-## 📁 Here are my projects.    
-## 📝 [Programming Tutorial for Python and R](tutorial.md)  
-## 📄 [Stock Analysis For Quant](Quant.md)   
-## 📄 [Deep Learning Machine Learning Stock](MLDL.md) 
-## 📄 [Investment Research Projects](IRP.md) 
+## 📁 Projects:
+- 📝 [Programming Tutorial for Python and R](tutorial.md)  
+- 📄 [Stock Analysis For Quant](Quant.md)   
+- 📄 [Deep Learning Machine Learning Stock](MLDL.md) 
+- 📄 [Investment Research Projects](IRP.md) 
 
-<!-- Add some space here -->
-<div style="margin-top: 80px;"></div>
+---
 
 ### If you find value in what I do, you can show your appreciation by buying me a coffee. ☕
 

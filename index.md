@@ -2,35 +2,31 @@
 
 ## 👋 Hello there, I'm Tin!
 
-💻 🔢 🔣 🤖 I'm passionate about mathematics, statistics, data, programming, data science, machine learning, and deep learning.
+💻 🔢 🔣 🤖 I love mathematics, statistics, data, programming, data science, machine learning, and deep learning.
 
-💵 💰 💸 📈 📉 I have a keen interest in investment, finance, and quantitative research.
+💵 💰 💸 📈 📉 I am passionate about investment, finance, and quantitative research.
 
 🌱 I'm addicted to learning and growing every day.
 
-### <ins> Connect with me:</ins>
-<div style="text-align: left; margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/tin-hang" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/>
-    </a>
-    <a href="mailto:lastancientone@gmail.com" target="_blank">
-        <img src="https://www.base64-image.de/build/img/mr-base64-482fa1f767.png" alt="Gmail" width="50" height="50"/>
-    </a>
-</div>
+---
 
-## 📁 Projects:
-- 📝 [Programming Tutorial for Python and R](tutorial.md)  
-- 📄 [Stock Analysis For Quant](Quant.md)   
-- 📄 [Deep Learning Machine Learning Stock](MLDL.md) 
-- 📄 [Investment Research Projects](IRP.md) 
+### Connect with me:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/tin-hang)
+[![Gmail](https://www.base64-image.de/build/img/mr-base64-482fa1f767.png)](mailto:lastancientone@gmail.com)
 
 ---
 
-### If you find value in what I do, you can show your appreciation by buying me a coffee. ☕
+## 📁 Here are my projects:
 
-<!-- Buy Me a Coffee button -->
-<div style="text-align: center;">
-    <a href="https://www.buymeacoffee.com/lastancientone">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
-    </a>
-</div>
+- 📝 [Programming Tutorial for Python and R](tutorial.md)
+- 📄 [Stock Analysis For Quant](Quant.md)
+- 📄 [Deep Learning Machine Learning Stock](MLDL.md)
+- 📄 [Investment Research Projects](IRP.md)
+
+---
+
+### Support My Work
+
+If you find value in what I do, you can show your appreciation by buying me a coffee. ☕
+
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/lastancientone)

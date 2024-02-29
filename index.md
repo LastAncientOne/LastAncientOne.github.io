@@ -18,7 +18,7 @@
     </a>
 </div>
 
-## 📁 Here are my projects:
+## 📁 Here are my projects: 
 
 - 📝 [Programming Tutorial for Python and R](tutorial.md)
 - 📄 [Stock Analysis for Quant](Quant.md)

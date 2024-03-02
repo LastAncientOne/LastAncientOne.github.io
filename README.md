@@ -16,7 +16,7 @@
 
 ### Housing & Home Building Investment
 #### Analyzing housing and home building stocks due to the rising trend in the housing market.  
-[Housing & Home Building Investment](https://github.com/LastAncientOne/Housing_Home_Building_Investment) [Slides] - Coming Soon!
+[Housing & Home Building Investment](https://github.com/LastAncientOne/Housing_Home_Building_Investment) [Slides](https://github.com/LastAncientOne/Housing_Home_Building_Investment/blob/main/Housing%20Slides.pdf)  
 
 ### Covid-19 Vaccines Investment  
 #### Analyzing investment opportunities within the realm of COVID-19 vaccine development.  

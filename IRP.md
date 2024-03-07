@@ -2,7 +2,7 @@
 
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
-[AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Slides.pdf) [Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports.pdf)
+[AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Slides.pdf) [Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports.pdf) [Accessibility Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports%20(Accessibility).pdf)
 
 ### Technology Investment
 #### Conducting an analysis of technology stocks, identifying the most promising investments for the future amidst the rapid evolution of technology and AI.  

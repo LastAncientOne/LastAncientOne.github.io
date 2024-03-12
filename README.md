@@ -4,7 +4,7 @@
 
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
-[AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Slides.pdf) [Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports.pdf)
+[AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Slides.pdf) [Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports.pdf) [Accessibility Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports%20(Accessibility).pdf)
 
 ### Technology Investment
 #### Conducting an analysis of technology stocks, identifying the most promising investments for the future amidst the rapid evolution of technology and AI.  
@@ -30,4 +30,5 @@
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  
 [Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) [Reports](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/blob/master/Final_Project.pdf)  
 
-🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  
+### 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  
+

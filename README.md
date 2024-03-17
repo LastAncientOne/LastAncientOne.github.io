@@ -8,7 +8,7 @@
 
 ### Technology Investment
 #### Conducting an analysis of technology stocks, identifying the most promising investments for the future amidst the rapid evolution of technology and AI.  
-[Technology Investment](https://github.com/LastAncientOne/Technology_Investment) [Slides] - Coming Soon!
+[Technology Investment](https://github.com/LastAncientOne/Technology_Investment) [Slides](https://github.com/LastAncientOne/Technology_Investment/blob/main/Technology%20Investment%20Slides.pdf)
 
 ### Electrics Cars Investment
 #### Examining electric car stocks to identify the optimal investment for the future, given the increasing adoption of electric vehicles among consumers.   
@@ -29,6 +29,7 @@
 ### Services Industry Restaurants Investment  
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  
 [Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) [Reports](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/blob/master/Final_Project.pdf)  
+
 
 ### 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  
 

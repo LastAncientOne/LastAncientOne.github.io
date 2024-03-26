@@ -8,19 +8,19 @@
 
 ### Technology Investment
 #### Conducting an analysis of technology stocks, identifying the most promising investments for the future amidst the rapid evolution of technology and AI.  
-[Technology Investment](https://github.com/LastAncientOne/Technology_Investment) [Slides](https://github.com/LastAncientOne/Technology_Investment/blob/main/Technology%20Investment%20Slides.pdf)  
+[Technology Investment](https://github.com/LastAncientOne/Technology_Investment) [Slides](https://github.com/LastAncientOne/Technology_Investment/blob/main/Technology%20Investment%20Slides.pdf) [Reports] - Coming soon!  
 
 ### Electrics Cars Investment
 #### Examining electric car stocks to identify the optimal investment for the future, given the increasing adoption of electric vehicles among consumers.   
-[Electrics Cars Investment](https://github.com/LastAncientOne/Electric_Cars_Investment) [Slides](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Slide.pdf) [Reports](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Reports.pdf)    
+[Electrics Cars Investment](https://github.com/LastAncientOne/Electric_Cars_Investment) [Slides](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Slide.pdf) [Reports](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Reports.pdf)  
 
 ### Housing & Home Building Investment
 #### Analyzing housing and home building stocks due to the rising trend in the housing market.  
-[Housing & Home Building Investment](https://github.com/LastAncientOne/Housing_Home_Building_Investment) [Slides](https://github.com/LastAncientOne/Housing_Home_Building_Investment/blob/main/Housing%20Slides.pdf)  
+[Housing & Home Building Investment](https://github.com/LastAncientOne/Housing_Home_Building_Investment) [Slides](https://github.com/LastAncientOne/Housing_Home_Building_Investment/blob/main/Housing%20Slides.pdf) [Reports] - Coming soon!  
 
 ### Covid-19 Vaccines Investment  
 #### Analyzing investment opportunities within the realm of COVID-19 vaccine development.  
-[Covid-19 Vaccines Investment](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment) [Slides](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment/blob/main/COVID-19%20Slides.pdf)
+[Covid-19 Vaccines Investment](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment) [Slides](https://github.com/LastAncientOne/Covid-19_Vaccines_Investment/blob/main/COVID-19%20Slides.pdf) [Reports] - Coming soon!  
 
 ### Beverages Long-Term Investment  
 #### Conducting a comprehensive analysis of three companies to ascertain the ideal long-term investment opportunities within the soda beverage industry.  

@@ -10,7 +10,7 @@
 
 ### Electrics Cars Investment
 #### Examining electric car stocks to identify the optimal investment for the future, given the increasing adoption of electric vehicles among consumers.   
-[Electrics Cars Investment](https://github.com/LastAncientOne/Electric_Cars_Investment) [Slides](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Slide.pdf) [Reports](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Reports.pdf)  
+[Electrics Cars Investment](https://github.com/LastAncientOne/Electric_Cars_Investment) [Slides](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Slide.pdf) [Reports](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Reports.pdf) [Accessibility Reports](https://github.com/LastAncientOne/Electric_Cars_Investment/blob/main/Electric%20Cars%20Reports%20Accessibility.pdf)
 
 ### Housing & Home Building Investment
 #### Analyzing housing and home building stocks due to the rising trend in the housing market.  

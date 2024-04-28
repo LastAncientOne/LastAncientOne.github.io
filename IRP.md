@@ -1,5 +1,7 @@
 # 📈 📉 📊 Investment Research Projects 💵  
 
+### Stock investment involves purchasing shares of ownership in a company, making you a partial owner entitled to a portion of its profits and assets. Investors aim to generate returns through capital appreciation (an increase in the stock price) and/or dividend income. Analyzing investments typically involves evaluating various factors such as the company's financial health, growth prospects, industry trends, competitive positioning, management quality, and broader economic conditions. This analysis helps investors make informed decisions about which stocks to buy, hold, or sell to achieve their financial goals.  
+
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
 [AMD vs NVDA Investment](https://github.com/LastAncientOne/AMD-vs-NVDA) [Slides](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Slides.pdf) [Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports.pdf) [Accessibility Reports](https://github.com/LastAncientOne/AMD-vs-NVDA/blob/main/AMD%20vs%20NVDA%20Reports%20(Accessibility).pdf)  

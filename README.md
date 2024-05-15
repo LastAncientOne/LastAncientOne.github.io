@@ -18,7 +18,7 @@
 
 ### Housing & Home Building Investment
 #### Analyzing housing and home building stocks due to the rising trend in the housing market.  
-[Housing & Home Building Investment](https://github.com/LastAncientOne/Housing_Home_Building_Investment) [Slides](https://github.com/LastAncientOne/Housing_Home_Building_Investment/blob/main/Housing%20Slides.pdf) [Reports](https://github.com/LastAncientOne/Home_Improvement_Retail_Investment/blob/main/Housing%20Reports.pdf)   
+[Housing & Home Building Investment](https://github.com/LastAncientOne/Housing_Home_Building_Investment) [Slides](https://github.com/LastAncientOne/Housing_Home_Building_Investment/blob/main/Housing%20Slides.pdf) [Reports](https://github.com/LastAncientOne/Home_Improvement_Retail_Investment/blob/main/Housing%20Reports.pdf) [Accessibility Reports](https://github.com/LastAncientOne/Home_Improvement_Retail_Investment/blob/main/Housing%20Reports%20(Accessibility).pdf)  
 
 ### Covid-19 Vaccines Investment  
 #### Analyzing investment opportunities within the realm of COVID-19 vaccine development.  
@@ -32,5 +32,4 @@
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  
 [Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) [Reports](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/blob/master/Final_Project.pdf)  
 
-### 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  
-
+### 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.

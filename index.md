@@ -14,7 +14,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tin-hang" height="50" width="50"/>
     </a>
     <a href="mailto:lastancientone@gmail.com" target="_blank">
-        <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" width="50" height="50"/>
+        <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" width="60" height="50"/>
     </a>
 </div>
 

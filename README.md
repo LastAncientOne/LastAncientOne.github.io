@@ -1,12 +1,10 @@
-# Welcome to Tin's Investment Projects
-
 # 📈 📉 📊 Investment Research Projects 💵  
 
 ### Stock investment involves purchasing shares of ownership in a company, making you a partial owner entitled to a portion of its profits and assets. Investors aim to generate returns through capital appreciation (an increase in the stock price) and/or dividend income. Analyzing investments typically involves evaluating various factors such as the company's financial health, growth prospects, industry trends, competitive positioning, management quality, and broader economic conditions. This analysis helps investors make informed decisions about which stocks to buy, hold, or sell to achieve their financial goals.  
 
 ### Disney Investment  
 #### Analyzing Disney's Historical Data Over the Past 100 Years  
-[Disney Investment](https://github.com/LastAncientOne/Disney_Investment) [Slides] - Coming soon! [Reports] - Coming soon! 
+[Disney Investment](https://github.com/LastAncientOne/Disney_Investment) [Slides](https://github.com/LastAncientOne/Disney_Investment/blob/main/Disney%20Slides.pdf) [Reports](https://github.com/LastAncientOne/Disney_Investment/blob/main/Disney%20Reports.pdf)
 
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
@@ -36,4 +34,4 @@
 #### Utilizing pair trading methodology to analyze stocks within the restaurant sector of the services industry.  
 [Services Industry Restaurants Investment](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/) [Reports](https://github.com/LastAncientOne/Trading-Strategies-in-Emerging-Markets-Coursera/blob/master/Final_Project.pdf)  
 
-### 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.
+### 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only. 

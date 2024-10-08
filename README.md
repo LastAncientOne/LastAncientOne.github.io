@@ -1,6 +1,6 @@
 # 📈 📉 📊 Investment Research Projects 💵  
 
-### Stock investment involves purchasing shares of ownership in a company, making you a partial owner entitled to a portion of its profits and assets. Investors aim to generate returns through capital appreciation (an increase in stock price) and/or dividend income. To make informed investment decisions, various analytical approaches are employed, including:  
+#### Stock investment involves purchasing shares of ownership in a company, making you a partial owner entitled to a portion of its profits and assets. Investors aim to generate returns through capital appreciation (an increase in stock price) and/or dividend income. To make informed investment decisions, various analytical approaches are employed, including:  
 1. Income Statement, Balance Sheet, and Cash Flow Analysis: These financial statements provide valuable insights into a company’s revenue, expenses, profitability, assets, liabilities, and overall financial health. The income statement reflects profitability over a specific period, while the balance sheet offers a snapshot of the company’s financial position at a given point in time.  
 
 2. Fundamental Analysis: This method evaluates a company’s intrinsic value by assessing its financial health, management quality, industry trends, and macroeconomic conditions. Key ratios used include the Price-to-Earnings (P/E) ratio, Return on Equity (ROE), and Debt-to-Equity ratio, which help gauge performance and growth potential. Additionally, investors analyze liquidity ratios (e.g., current ratio), profitability ratios (e.g., net profit margin), and leverage ratios (e.g., debt-to-equity) to assess financial stability and risk.
@@ -17,7 +17,7 @@
 
 6. Machine Learning: Advances in technology enable machine learning models to predict stock price movements by analyzing vast datasets. These models can uncover hidden patterns and relationships in the market, assisting investors in making data-driven decisions.    
 
-Analyzing investments typically involves evaluating various factors such as the company's financial health, growth prospects, industry trends, competitive positioning, management quality, and broader economic conditions. This analysis helps investors make informed decisions about which stocks to buy, hold, or sell to achieve their financial goals.  
+#### Analyzing investments typically involves evaluating various factors such as the company's financial health, growth prospects, industry trends, competitive positioning, management quality, and broader economic conditions. This analysis helps investors make informed decisions about which stocks to buy, hold, or sell to achieve their financial goals.  
     
 ### Disney Investment  
 #### Analyzing Disney's Historical Data Over the Past 100 Years  

@@ -4,7 +4,7 @@
 
 ### Disney Investment  
 #### Analyzing Disney's Historical Data Over the Past 100 Years  
-[Disney Investment](https://github.com/LastAncientOne/Disney_Investment) [Slides] - Coming soon! [Reports] - Coming soon!  
+[Disney Investment](https://github.com/LastAncientOne/Disney_Investment) [Slides](https://github.com/LastAncientOne/Disney_Investment/blob/main/Disney%20Slides.pdf) [Reports](https://github.com/LastAncientOne/Disney_Investment/blob/main/Disney%20Reports.pdf)
 
 ### AMD vs NVDA 
 #### Analyzing 2 Stocks using Master Analyst Program (MAP)
